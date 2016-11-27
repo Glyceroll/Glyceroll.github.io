@@ -86,6 +86,7 @@ li a.active {
 #headText h1, #headText h5
 {
     margin: 5px 0;
+	text-shadow: 2px 2px #333;
 }
 .social
 {
@@ -146,6 +147,7 @@ li a.active {
     display: table-cell;
     vertical-align: middle;
     text-align: center;
+	text-shadow: 2px 2px #333;
 }
 #expDivider
 {
